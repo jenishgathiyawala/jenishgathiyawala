@@ -1,17 +1,82 @@
-# 💫 About Me:
-About Me<br><br>I'm Jenish Gathiyawala, a Senior iOS Developer turned Entrepreneur, <br>based in Surat, Gujarat. With 4 years of professional experience at <br>Beetonz Infotech, I built and delivered multiple live App Store <br>applications across domains including geolocation, camera tools, <br>AI-powered features, and real-time data platforms.<br><br>In February 2026, I took a bold step forward — leaving my full-time <br>role to pursue my own venture as a Co-Founder, where I am now focused <br>on independently developing and publishing iOS applications on the <br>App Store.<br><br>My core expertise lies in Swift, RESTful API integration, and delivering <br>clean, maintainable code that performs at scale. I have hands-on experience <br>with frameworks and SDKs such as CoreLocation, MapKit, Google Maps, Mapbox, <br>WidgetKit, UIKit, and SwiftUI. I also use Git for version control, managing <br>source code efficiently across projects and collaborative workflows. I have <br>mentored junior developers, conducted code reviews, and driven technical <br>decisions within cross-functional teams.<br><br>I am passionate about building real-world mobile solutions — from GPS-based <br>tools and live sports apps to AI-powered features and dynamic wallpaper <br>applications. Today, as an independent iOS developer and entrepreneur, I <br>continue to ship meaningful products while exploring advanced iOS architecture, <br>emerging Apple technologies, and generative AI integration.
+## 🚀 About Me  
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jenish-gathiyawala-150ab2227/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jenishgathiyawala6688@gmail.com) 
-
-# 💻 Tech Stack:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 👨‍💻 Senior iOS Developer → Entrepreneur  
+- 🏢 4+ years at Beetonz Infotech  
+- 📱 Built & shipped multiple live App Store apps  
+- ⚡ Expertise in **Swift, REST APIs, scalable architecture**  
+- 🧠 Working on **AI-powered apps & generative features**  
+- 🗺️ Experience with **CoreLocation, MapKit, Google Maps, Mapbox**  
+- 🎨 Skilled in **UIKit, Git, Basic Figma**  
+- 🔧 Focus on **clean code, performance & maintainability**  
+- 👥 Mentored developers & led code reviews  
+- 🚀 Co-Founder (since Feb 2026) building indie iOS apps  
+- 💡 Passionate about **AI, GPS tools & innovative mobile products**  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jenishgathiyawala&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack  
+
+<p>
+<img src="https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/iOS-black?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/UIKit-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CoreLocation-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MapKit-lightgrey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google_Maps-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mapbox-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WidgetKit-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+</p>
+
+---
+
+## 🌱 Currently  
+
+- 🚀 Building & scaling iOS apps independently  
+- 🤖 Exploring **Generative AI in mobile apps**  
+- 📈 Focused on **App Store growth & monetization**  
+
+---
+
+## 📱 Featured Projects  
+
+- 🔥 AI Video Generator Apps  
+- 👕 AI Outfit / Virtual Try-On Apps  
+- 🗺️ GPS & Map-based Utilities  
+- 🎨 Dynamic Wallpaper Apps  
+
+---
+
+## 🤝 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenish-gathiyawala-150ab2227/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenishgathiyawala6688@gmail.com)
+
+---
+
+⭐️ *“Building real-world mobile solutions with clean code & powerful ideas.”*
+<!-- 
+## 📱 My Apps  
+
+### 🎬 AI Video Generator  
+<img src="YOUR_SCREENSHOT_1" width="250"/>  
+<img src="YOUR_SCREENSHOT_2" width="250"/>  
+
+<a href="https://apps.apple.com/us/app/body-tune-face-body-editor/id6761005775">
+<img src="https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple"/>
+</a>
+
+---
+
+### 👕 AI Outfit Changer  
+<img src="YOUR_SCREENSHOT_3" width="250"/>  
+<img src="YOUR_SCREENSHOT_4" width="250"/>  
+
+<a href="YOUR_APP_STORE_LINK">
+<img src="https://img.shields.io/badge/View_on-App_Store-black?style=for-the-badge&logo=apple"/>
+</a>
+-->
