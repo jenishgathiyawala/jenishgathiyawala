@@ -45,6 +45,7 @@
 
 ## 📱 Featured Projects  
 
+- 💪 Body Tune - Face & Body Editor
 - 🔥 AI Video Generator Apps  
 - 👕 AI Outfit / Virtual Try-On Apps  
 - 🗺️ GPS & Map-based Utilities  
